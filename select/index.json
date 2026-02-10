@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "COME BACK JAKEN",
+  "base_artist": "JAKEN",
+  "createdAt": "2026-02-10T13:44:13.244652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come Back As A Country Boy",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/01_Come_Back_As_A_Country_Boy_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come Back As A Country Boy",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/02_Come_Back_As_A_Country_Boy_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come Back Song",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/03_Come_Back_Song_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come Back To Bed (Acoustic)",
+      "artist": "Sean Stemaly",
+      "has_synced": false,
+      "path": "select/04_Come_Back_To_Bed_(Acoustic)_Sean_Stemaly.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Come Back as Another Woman",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/05_I'll_Come_Back_as_Another_Woman_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Y'all Come Back Saloon",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/06_Y'all_Come_Back_Saloon_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Y'all Come Back Saloon",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/07_Y'all_Come_Back_Saloon_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Always Come Back (To Hurting Me)",
+      "artist": "Johnny Rodriguez",
+      "has_synced": false,
+      "path": "select/08_You_Always_Come_Back_(To_Hurting_Me)_Johnny_Rodriguez.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "As I Come Back",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/09_As_I_Come_Back_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Come Back",
+      "artist": "The Roots & Betty Wright feat. Lenny Williams",
+      "has_synced": false,
+      "path": "select/10_Baby_Come_Back_The_Roots_&_Betty_Wright_feat._Lenny_Williams.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby Come Back (Feat. Lenny Williams)",
+      "artist": "Betty Wright & The Roots",
+      "has_synced": false,
+      "path": "select/11_Baby_Come_Back_(Feat._Lenny_Williams)_Betty_Wright_&_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come Back From San Francisco",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/12_Come_Back_From_San_Francisco_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come Back To Camden",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/13_Come_Back_To_Camden_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Come Back",
+      "artist": "Marine Girls",
+      "has_synced": false,
+      "path": "select/14_Don't_Come_Back_Marine_Girls.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come Back",
+      "artist": "New Buffalo",
+      "has_synced": false,
+      "path": "select/15_Come_Back_New_Buffalo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "COME BACK JAKEN",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_01_COME_BACK_JAKEN_JAKEN.txt"
+    }
+  ]
+}
